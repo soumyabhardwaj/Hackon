@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "150699256380",
+    "firebase_url": "https://termproject-ecede.firebaseio.com",
+    "project_id": "termproject-ecede",
+    "storage_bucket": "termproject-ecede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150699256380:android:3964a5007ea4b2a2e4f139",
+        "android_client_info": {
+          "package_name": "com.example.praveshaadhaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150699256380-ecu2bg1mfdhqliiebfd4ngh861jog6b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNX9mnBlC8DbzYFIOVo856BAPF2gCHR7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150699256380-ecu2bg1mfdhqliiebfd4ngh861jog6b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150699256380:android:592225663080ad52e4f139",
+        "android_client_info": {
+          "package_name": "com.example.termpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150699256380-ecu2bg1mfdhqliiebfd4ngh861jog6b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNX9mnBlC8DbzYFIOVo856BAPF2gCHR7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150699256380-ecu2bg1mfdhqliiebfd4ngh861jog6b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

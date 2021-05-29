@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home">
+    </item>
+
+    <item android:id="@+id/mask"
+        android:icon="@drawable/ic_baseline_masks_24"
+        android:title="Detector">
+    </item>
+
+    <item android:id="@+id/review"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        android:title="Reviews">
+    </item>
+
+    <item android:id="@+id/hospital"
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:title="Medical Corner">
+    </item>
+
+</menu>
